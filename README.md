@@ -5,3 +5,6 @@ Algumas das principais ferramentas utilizadas: Express para o gerenciamento de r
 No futuro, pretendo adicionar a funcionalidade que permitirá aos monitores escutarem as ligações diretamente pelo sistema. Além disso, planejo implementar uma aplicação de feedback mais completa, incluindo um checklist detalhado.
 
 Ainda há muito a ser feito, como melhorar a segurança de todas as rotas e outras funcionalidades.
+
+https://github.com/user-attachments/assets/ae4762de-012d-47eb-9c86-0195509aba1c
+
